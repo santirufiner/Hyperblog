@@ -6,7 +6,7 @@ Master 1
 
 <<<<<<< HEAD
 Master 2
-=======
+
 Experimento 1
 >>>>>>> 99be692 (Exp 1)
 
